@@ -1,0 +1,65 @@
+body
+{
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #212121;
+	text-align: center;
+
+
+}
+
+.Label
+{
+	margin: 0%;
+	border-top: 0px;
+	color: #BDBDBD;
+	font-size: 100%;
+	font-style: italic;
+}
+
+.StandardText
+{
+	margin: 0%;
+	color: #E0E0E0;
+	font-size: 200%;
+}
+
+.Title
+{
+	margin: 0%;
+	color: #E0E0E0;
+	font-size: 400%;
+}
+
+.TextBox
+{
+
+	margin: auto;
+	margin-top: 1%;
+	width: 75%;
+	height: auto;
+	background-color: #424242;
+}
+
+a:link
+{
+	color: #DD2C00;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #DD2C00;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #F5F5F5;
+	text-decoration: none;
+}
+
+a:active
+{
+	color: #EEEEEE;
+	text-decoration: none;
+}
